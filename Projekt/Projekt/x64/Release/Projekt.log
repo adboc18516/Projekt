@@ -1,0 +1,22 @@
+﻿  Projekt.cpp
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(152,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(449,53): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(449,53): warning C4244:         with
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(449,53): warning C4244:         [
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(449,53): warning C4244:             T=unsigned int
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(449,53): warning C4244:         ]
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(452,53): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(452,53): warning C4244:         with
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(452,53): warning C4244:         [
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(452,53): warning C4244:             T=unsigned int
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(452,53): warning C4244:         ]
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(458,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(458,63): warning C4244:         with
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(458,63): warning C4244:         [
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(458,63): warning C4244:             T=unsigned int
+E:\Projekty C++\Projekt\Projekt\Projekt.cpp(458,63): warning C4244:         ]
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 435 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Projekt.vcxproj -> E:\Projekty C++\Projekt\x64\Release\Projekt.exe
